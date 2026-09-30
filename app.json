@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
-  "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "name": "DMX-MD",
+  "description": "Javascript WhatsApp bot made by Amasha Sachintha",
+  "logo": "https://github.com/DMXMD/DMX-MD/blob/main/images/WhatsApp%20Image%202026-09-21%20at%205.08.27%20PM.jpeg?raw=true",
+  "keywords": ["DMX-MD"],
   "success_url": "/",
 
   "env": {
